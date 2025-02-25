@@ -1,0 +1,1 @@
+INSERT INTO task (title, description, due_date, priority, completed) VALUES ('Demo Task', 'Test task', '2025-03-01', 'High', false);
